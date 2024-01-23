@@ -1,0 +1,20 @@
+[gd_scene load_steps=4 format=3 uid="uid://dc0xuqebnycs5"]
+
+[ext_resource type="Texture2D" uid="uid://jlm1twxnt8up" path="res://clock.png" id="1_43758"]
+[ext_resource type="Script" path="res://node.gd" id="1_cvavt"]
+[ext_resource type="Texture2D" uid="uid://c771vsda7o4j7" path="res://minuteHand.png" id="2_hdvjs"]
+
+[node name="Node" type="Node"]
+script = ExtResource("1_cvavt")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(388, 304)
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("1_43758")
+region_enabled = true
+region_rect = Rect2(0, 0, 1020, 1020)
+
+[node name="Sprite2D2" type="Sprite2D" parent="."]
+visible = false
+position = Vector2(388, 304)
+texture = ExtResource("2_hdvjs")
