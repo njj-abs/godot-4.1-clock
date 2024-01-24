@@ -6,7 +6,7 @@ func _ready():
 	var data = {
 		"backgroundImage": $Sprite2D,
 		"hour": 20,
-		"minute": 70,
+		"minute": 60
 	}
 	var clock = Clock.new(data)
 	add_child(clock)
