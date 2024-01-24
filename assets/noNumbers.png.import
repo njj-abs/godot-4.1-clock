@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c771vsda7o4j7"
-path="res://.godot/imported/minuteHand.png-9c51dadb2eef130477fee5b0e8c34149.ctex"
+uid="uid://x66fiel2mfm"
+path="res://.godot/imported/noNumbers.png-d3e9d751bb0432f481557d4d2687651e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://minuteHand.png"
-dest_files=["res://.godot/imported/minuteHand.png-9c51dadb2eef130477fee5b0e8c34149.ctex"]
+source_file="res://assets/noNumbers.png"
+dest_files=["res://.godot/imported/noNumbers.png-d3e9d751bb0432f481557d4d2687651e.ctex"]
 
 [params]
 
