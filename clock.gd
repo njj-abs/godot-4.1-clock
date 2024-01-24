@@ -4,11 +4,11 @@ var sprite_class = Sprite2D
 
 var timeValues = {
 	"minute": {
-		"texture": "res://minuteHand.png",
+		"texture": "res://minuteHand01.png",
 		"degrees_per_unit": 6
 	},
 	"hour": {
-		"texture": "res://hourHand.png",
+		"texture": "res://hourHand01.png",
 		"degrees_per_unit": 30
 	}
 }
